@@ -1,3 +1,6 @@
+************************************************************
+** EN CASO DE NO FUNCIONAR EL DEPLOY UTILIZAR ESTOS PASOS **
+************************************************************
 PRE REQUISITOS
 	LIBRERIAS REQUERIDAS
 	 - Python 3.1.2:  URL: https://www.python.org/downloads/release/python-3120/
